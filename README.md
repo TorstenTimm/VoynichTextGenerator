@@ -5,13 +5,13 @@ The <a href="https://en.wikipedia.org/wiki/Voynich_manuscript">Voynich Manuscrip
 The app is available via iTunes:
 <a href="https://itunes.apple.com/us/app/voynichtextgenerator/id1083587101">https://itunes.apple.com/us/app/voynichtextgenerator/id1083587101</a>
 
-![Page](images/app.jpg)
+![Page](Images/app.jpg)
 
 The purpose of this papp is to illustrate my hypothesis about the Voynich Manuscript. They generates pseudo text with features similar to that of the Voynich Manuscript.
-![Page](images/generate_text.png)
+![Page](Images/generate_text.png)
 
 The app also allows to search for similarities within the text of the Voynich Manuscript.
-![Page](images/search_similarities.png)
+![Page](Images/search_similarities.png)
 
 The hypothesis about the Voynich Manuscript was published via the following two papers:
 
