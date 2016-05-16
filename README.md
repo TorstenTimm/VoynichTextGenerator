@@ -8,12 +8,14 @@ The app is available via iTunes:
 ![Page](Images/app.jpg)
 
 The purpose of this papp is to illustrate my hypothesis about the Voynich Manuscript. They generates pseudo text with features similar to that of the Voynich Manuscript.
+
 ![Page](Images/generate_text.png)
 
 The app also allows to search for similarities within the text of the Voynich Manuscript.
+
 ![Page](Images/search_similarities.png)
 
-The hypothesis about the Voynich Manuscript was published via the following two papers:
+The have published two papers about my hypothesis for the Voynich Manuscript:
 
 <a href="http://arxiv.org/abs/1407.6639">How the Voynich Manuscript was created</a>
 ------------
