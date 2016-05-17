@@ -2,12 +2,12 @@
 
 The <a href="https://en.wikipedia.org/wiki/Voynich_manuscript">Voynich Manuscript</a> is a mysterious medieval manuscript. It contains a text in an unknown script. Since its discovery in 1912 the manuscript has attracted the attention of numerous researchers. So far, however, nobody has been able to reveal the secret of the unknown script.
 
-The app is available via iTunes:
+This is the source code for the app VoynichTextGenerator. The app is available via iTunes:
 <a href="https://itunes.apple.com/us/app/voynichtextgenerator/id1083587101">https://itunes.apple.com/us/app/voynichtextgenerator/id1083587101</a>
 
 ![Page](Images/app.jpg)
 
-The purpose of this papp is to illustrate my hypothesis about the Voynich Manuscript. They generates pseudo text with features similar to that of the Voynich Manuscript.
+The purpose of this app is to illustrate my hypothesis about the Voynich Manuscript. They generates pseudo text with features similar to that of the Voynich Manuscript.
 
 ![Page](Images/generate_text.png)
 
@@ -15,7 +15,8 @@ The app also allows to search for similarities within the text of the Voynich Ma
 
 ![Page](Images/search_similarities.png)
 
-The have published two papers about my hypothesis for the Voynich Manuscript:
+The app illustrates a hypothesis about the way the text of the Voynich manuscript was created. After the "auto copying hypothesis" the scribe was generating the text by copying words already written.
+The auto copying hypothesis is explained in detail in the following two papers:
 
 <a href="http://arxiv.org/abs/1407.6639">How the Voynich Manuscript was created</a>
 ------------
