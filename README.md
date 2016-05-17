@@ -7,7 +7,7 @@ This is the source code for the app VoynichTextGenerator. The app is available v
 
 ![Page](Images/app.jpg)
 
-The purpose of this app is to illustrate my hypothesis about the Voynich Manuscript. They generates pseudo text with features similar to that of the Voynich Manuscript.
+The purpose of this app is to illustrate my hypothesis about the Voynich Manuscript. The app generates pseudo text with features similar to that of the Voynich Manuscript.
 
 ![Page](Images/generate_text.png)
 
