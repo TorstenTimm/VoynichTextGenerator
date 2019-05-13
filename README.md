@@ -15,8 +15,8 @@ The app also allows to search for similarities within the text of the Voynich Ma
 
 ![Page](Images/search_similarities.png)
 
-The app illustrates a hypothesis about the way the text of the Voynich manuscript was created. After the "self citation hypothesis" the scribe was generating the text by copying words already written.
-The self citation hypothesis is explained in detail in the following two papers:
+The app illustrates a hypothesis about the way the text of the Voynich manuscript was created. After the "self-citation hypothesis" the scribe was generating the text by copying words already written.
+The self-citation hypothesis is explained in detail in the following two papers:
 
 <a href="http://arxiv.org/abs/1407.6639">How the Voynich Manuscript was created</a>
 ------------
